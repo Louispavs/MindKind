@@ -1,0 +1,71 @@
+.main-heading{
+    font-weight: 500;
+    font-size: 40px;
+    margin: 0;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    width: 780px;
+    display: inline-block;
+}
+.subheading-1{
+    font-weight: 500;
+    font-size: 25px;
+    font-family: roboto, arial;
+    margin-bottom: 16px;
+}
+
+.introduction{
+    font-size: 17px;
+    width: 780px;
+    text-align: left;
+    display: inline-block;
+    line-height: 30px;
+    font-family: Merriweather, arial;
+}
+
+.habit-headings{
+    font-weight: 500;
+    font-size: 21px;
+    font-family: roboto, arial;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.habit-introduction{
+    font-size: 17px;
+    line-height: 30px;
+    font-family: Merriweather, arial;
+}
+
+.habits{
+    margin-top: 35px;
+    font-size: 17px;
+    line-height: 30px;
+    font-family: Merriweather, arial;
+}
+
+.end{
+    text-align: center;
+    line-height: 30px;
+    margin-top: 20px;
+    opacity: 0.75;
+    font-family: Merriweather, arial;
+    font-weight: 500;
+}
+
+.subheading-2{
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.get-started-sub{
+    font-weight: 500;
+    font-size: 25px;
+    font-family: roboto, arial;
+    width: 780px;
+    text-align: left;
+    display: inline-block;
+    line-height: 30px;
+    margin-bottom: 16px;
+}

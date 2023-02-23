@@ -1,0 +1,15 @@
+
+
+.line{
+    display:inline-block;
+    align-items: center;
+}
+.top-image{
+    width: 780px;
+}
+.image-div{
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    justify-content: center;
+}

@@ -1,0 +1,52 @@
+.body{
+    margin: 0px;
+    font-family: roboto, arial;
+    align-items: center;
+    height: 100%;
+}
+.html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+.section-1{
+    height: 100vh;
+    text-align: center;
+}
+
+.section-2{
+    height: 200vh;
+    margin-top:0px;
+    width: 780px;
+    justify-content: center;
+    display: inline-block;
+    text-align: left;
+}
+
+
+.section-4{
+    height: 200vh;
+}
+
+.section-5{
+    height:500vh;
+}
+.section-6{
+    height: 330vh;
+}
+.section-7{
+    height:100vh;
+}
+.habit-section-1{
+    margin-top:92px;
+    height: 100vh;
+}
+
+
+.bottom-line{
+    width: 100%;
+}
+
