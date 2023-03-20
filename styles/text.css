@@ -29,6 +29,12 @@
     font-family: roboto, arial;
     margin-top: 24px;
     margin-bottom: 24px;
+    text-decoration: none;
+    color: black;
+    transition: 0.95s;
+}
+.habit-headings:hover{
+    opacity: 0.75;
 }
 
 .habit-introduction{

@@ -50,3 +50,32 @@
     width: 100%;
 }
 
+.arrow-btn{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+.arrow-btn a{
+    height: 39px;
+    width: 37px;
+    text-align: center;
+    background: rgb(63, 155, 248);
+    display: flex;
+    border-radius: 3px;
+    cursor: pointer;
+    color: aliceblue;
+    opacity: 1;
+    justify-content: center;
+}
+.arrow-btn a:hover{
+    opacity: 0.9;
+}
+.arrow-btn a:active{
+    opacity: 1;
+}
+.arrow-btn a span{
+    color: rgb(254, 254, 254);
+    line-height:30px;
+    font-size: 30px;
+    margin-right: 9px;
+}
