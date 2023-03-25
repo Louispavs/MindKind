@@ -6,6 +6,7 @@
     padding-bottom: 20px;
     width: 780px;
     display: inline-block;
+    margin-top: 20px;
 }
 .subheading-1{
     font-weight: 500;
@@ -74,4 +75,29 @@
     display: inline-block;
     line-height: 30px;
     margin-bottom: 16px;
+}
+.habit-1-intro{
+    font-size: 17px;
+    width: 780px;
+    text-align: left;
+    display: inline-block;
+    line-height: 30px;
+    font-family: Merriweather, arial;
+    margin-bottom: 38px;
+}
+
+.habit-section-1{
+    height: 100vh;
+    text-align: center;
+ 
+}
+
+.get-started-sub{
+    font-weight: 500;
+    font-size: 25px;
+    font-family: roboto, arial;
+    width: 780px;
+    text-align: left;
+    display: inline-block;
+    line-height: 30px;
 }
