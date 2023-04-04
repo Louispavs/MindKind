@@ -25,18 +25,19 @@
 }
 
 .habit-headings{
+    color: black;
     font-weight: 500;
     font-size: 21px;
     font-family: roboto, arial;
     margin-top: 24px;
     margin-bottom: 24px;
-    text-decoration: none;
-    color: black;
-    transition: 0.95s;
+   transition: 0.75s;
+   
 }
 .habit-headings:hover{
     opacity: 0.75;
 }
+
 
 .habit-introduction{
     font-size: 17px;

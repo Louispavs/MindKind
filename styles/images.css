@@ -14,3 +14,8 @@
     padding-bottom: 70px;
     justify-content: center;
 }
+.banner-1{
+    width: 780px;
+    cursor: pointer;
+    margin-top: 20px;
+}
